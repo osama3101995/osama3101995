@@ -37,7 +37,7 @@
 ### Back-End Development
 
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
-![express/nodejs](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=expressdotjs&logoColor=white)
+![express/nodejs](https://img.shields.io/badge/express-0769AD?style=for-the-badge&logo=express&logoColor=white)
 ![websocket](https://img.shields.io/badge/websocket-0769AD?style=for-the-badge&logo=websocket&logoColor=white)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![MYSQL](https://img.shields.io/static/v1?style=for-the-badge&message=MYSQL&color=DC382D&logo=MYSQL&logoColor=FFFFFF&label=)
