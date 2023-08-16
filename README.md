@@ -21,7 +21,7 @@
 ### Front-End Development
 
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![nextjs](https://img.shields.io/badge/Next-00DC82?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![nextjs](https://img.shields.io/badge/NextJS-00DC82?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-4285F4?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -37,7 +37,7 @@
 ### Back-End Development
 
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
-![express/nodejs](https://img.shields.io/badge/express-0769AD?style=for-the-badge&logo=express&logoColor=white)
+![express/nodejs](https://img.shields.io/badge/expressjs-0769AD?style=for-the-badge&logo=express&logoColor=white)
 ![websocket](https://img.shields.io/badge/websocket-0769AD?style=for-the-badge&logo=websocket&logoColor=white)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![MYSQL](https://img.shields.io/static/v1?style=for-the-badge&message=MYSQL&color=DC382D&logo=MYSQL&logoColor=FFFFFF&label=)
